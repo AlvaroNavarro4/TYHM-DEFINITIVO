@@ -2,6 +2,7 @@
 modulo 1 de TYHM
 Creacion de textos e hipertextos 
 creare una carpeta para el CV
-creare una carpeta para el capitulo del libro
 
-CV_NAVARRO_CANGAS_Alvaro (1).pdf
+<p>
+   <a href="https://alvaronavarro4.github.io/TYHM-DEFINITIVO/CV_NAVARRO_CANGAS_Alvaro%20(1).pdf"
+      >CV Actualizado Agosto 2021 </a>
