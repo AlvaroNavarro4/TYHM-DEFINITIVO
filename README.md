@@ -8,4 +8,5 @@ creare una carpeta para el CV
      >CV Actualizado Agosto 2021 </a>
     <a href="https://alvaronavarro4.github.io/TYHM-DEFINITIVO/ARBOLES-DE-DECISION-ENTREGA-DE-COMPLEMENTO-R.html"
     >ARBOLES-DE-DECISION </a>
-    <a href="https://alvaronavarro4.github.io/TYHM-DEFINITIVO/
+    <a href="https://alvaronavarro4.github.io/TYHM-DEFINITIVO/indu-facha.html"
+    >Elementos basicos de programacion"</a>
