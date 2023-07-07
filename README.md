@@ -10,5 +10,5 @@ creare una carpeta para el CV
     >ARBOLES-DE-DECISION </a>
     <a href="https://alvaronavarro4.github.io/TYHM-DEFINITIVO/indu-facha.html"
     >Elementos basicos de programacion </a>
-    <a href="https://alvaronavarro4.github.io/TYHM-DEFINITIVO/M&A Event study.pdf"
+    <a href="https://alvaronavarro4.github.io/TYHM-DEFINITIVO/M&A. Event Study.pdf"
     >An Event Study of United States Companies </a>
