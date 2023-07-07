@@ -12,5 +12,3 @@ creare una carpeta para el CV
     >Elementos basicos de programacion </a>
     <a href="https://alvaronavarro4.github.io/TYHM-DEFINITIVO/M&A. Event Study.pdf"
     >An Event Study of United States Companies </a>
-  <a href="https://alvaronavarro4.github.io/TYHM-DEFINITIVO/PODCAST_Experience in Graz"
-    >PODCAST_Experience in Graz </a>
